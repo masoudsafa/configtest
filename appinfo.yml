@@ -3,4 +3,4 @@ spring:
     port: 8045
     host: http://ezpay-linux-test
     username: guest
-    password: guest
+    password: guest1
