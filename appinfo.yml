@@ -2,5 +2,5 @@ spring:
   rabbitmq:
     port: 8045
     host: http://ezpay-linux-test
-    username: guest
+    username: guest1
     password: guest1
